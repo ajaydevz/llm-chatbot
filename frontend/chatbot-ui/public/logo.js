@@ -1,0 +1,1 @@
+<a href="https://iconscout.com/icons/ai-setting" class="text-underline font-size-sm" target="_blank">Ai Setting</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>
