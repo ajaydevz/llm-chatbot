@@ -27,11 +27,6 @@ A full-stack intelligent chatbot application powered by FastAPI and a Large Lang
 
 > "The goal of this project is to build a lightweight, context-aware AI chatbot API using FastAPI. It allows users to interact with an AI assistant using natural language, while maintaining multi-turn conversation context."
 
----
-
-## Demo Banner
-
-![AI Chatbot Banner](./assets/chatbot.png) <!-- Replace with actual image path -->
 
 ---
 
